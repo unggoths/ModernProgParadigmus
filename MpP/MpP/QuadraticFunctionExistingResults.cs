@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace MpP
 {
-    public static class ResolveResults
+    public static class QuadraticFunctionExistingResults
     {
-        public const string Intifity = "Intifity solutions";
+        public const string InfiniteSolutions = "Intifity solutions";
         public const string NoSolution = "No solution";
     }
 }
